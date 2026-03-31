@@ -36,7 +36,7 @@ export default function Home({ allPostData }) {
     </Head>
     <section>
       <p className={utilStyle.headingMd}>
-        Hello, I'm Shin. I'm a software engineer and this is my blog.
+        エンジニアのブログへようこそ！このブログでは、最新の技術トレンドや開発のヒントを共有しています。ぜひご覧ください。
       </p>
     </section>
 
